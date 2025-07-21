@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- خلفية دائرية -->
+  <circle cx="100" cy="100" r="90" fill="#4CAF50" />
+  <circle cx="100" cy="100" r="80" fill="#8BC34A" />
+  
+  <!-- شكل الدجاجة المبسط -->
+  <path d="M120,80 C140,70 150,90 140,110 C130,130 110,140 90,130 C70,120 60,100 70,80 C80,60 100,50 120,80 Z" fill="#FFFFFF" />
+  
+  <!-- العين -->
+  <circle cx="110" cy="90" r="5" fill="#333333" />
+  
+  <!-- المنقار -->
+  <path d="M125,95 L140,90 L125,105 Z" fill="#FF9800" />
+  
+  <!-- العرف -->
+  <path d="M100,60 L105,50 L110,60 L115,45 L120,60 L125,50 L130,65" fill="#F44336" stroke="#D32F2F" stroke-width="1" />
+  
+  <!-- نص التطبيق -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">إدارة مزرعة الدواجن</text>
+</svg>

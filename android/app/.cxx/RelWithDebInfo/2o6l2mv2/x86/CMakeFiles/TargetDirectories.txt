@@ -1,0 +1,2 @@
+C:/Users/mo/StudioProjects/broiler_poultry_farm_management_app/android/app/.cxx/RelWithDebInfo/2o6l2mv2/x86/CMakeFiles/edit_cache.dir
+C:/Users/mo/StudioProjects/broiler_poultry_farm_management_app/android/app/.cxx/RelWithDebInfo/2o6l2mv2/x86/CMakeFiles/rebuild_cache.dir
